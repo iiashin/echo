@@ -26,8 +26,9 @@ vue练手小项目，一个小小的音乐播放器
 4. 播放模式:循环/顺序/随机
 
 #### 项目截图
-
-
+![img](https://github.com/iiashin/echo/blob/master/recommend.png)
+![img](https://github.com/iiashin/echo/blob/master/list.png)
+![img](https://github.com/iiashin/echo/blob/master/detail.png)
 #### 安装依赖
 ```
 npm install
